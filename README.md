@@ -1,4 +1,4 @@
-### Códigos correspondiente al estudio introductorio del modelos de Hodgkin y Huxley 
+### Códigos correspondientes al estudio introductorio del modelo de Hodgkin y Huxley 
 Desarrollado para la clase de Laboratorio avanzado de la división  de ciencias e ingenieras de la UG.
 Incluye :
 - Un modelo interactivo  simple
